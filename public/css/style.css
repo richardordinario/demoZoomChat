@@ -1,0 +1,46 @@
+.active-clicked {
+    background-color: #E5E5E5 !important;
+}
+.input-message {
+    border: 2px solid #E5E5E5;
+    border-radius: 12px !important;
+}
+.round {
+    border-radius: 12px !important;
+}
+.dnone {
+    display: none !important;
+}
+.message-wrapper {
+    height:560px;
+    overflow:auto;
+    padding: 16px;  
+}
+.message-container {
+    background:#fff;
+    border-radius: 12px !important;
+    padding: 16px;
+}
+.contact-wrapper {
+    max-height:560px;
+    overflow:auto;
+}
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #999; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #888; 
+}
